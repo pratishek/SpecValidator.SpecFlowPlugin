@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.4</version>
+    <title>$title$</title>
+    <authors>Pratishek Awasthi</authors>
+    <owners>Pratishek Awasthi</owners>
+    <licenseUrl>https://github.com/pratishek/SpecValidator.SpecFlowPlugin.git</licenseUrl>
+    <projectUrl>https://github.com/pratishek/SpecValidator.SpecFlowPlugin.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This plugin provides a mechanism to validate Spec flow Background,Scenario,Feature tags, Scenario tags as per the rule defined in Configuration</description>
+    <releaseNotes>Initial Commit</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+  </metadata>
+</package>
